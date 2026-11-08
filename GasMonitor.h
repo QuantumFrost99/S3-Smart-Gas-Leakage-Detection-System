@@ -44,6 +44,6 @@ GasLevel evaluateGasLevel(int gasValue);
 void manageAlarm(GasLevel level);
 
 void controlBuzzer(bool state);
-void DIsplayStatus(int gasValue, GasLevel level);
+void displayStatus(int gasValue, GasLevel level);
 
 #endif
